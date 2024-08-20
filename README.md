@@ -1,9 +1,9 @@
 # ATM-Application
-**Overview**
+# Overview
 
 This project is a simple ATM system implemented in Python, simulating basic ATM functionalities such as account creation, authentication, deposits, withdrawals, balance checking, and password management. The system supports both user and admin accounts, with specific privileges and restrictions.
 
-**Features**
+# Features
 
 **User Features:**
 
@@ -77,6 +77,6 @@ python atm_system.py
 1. View All User Accounts: Displays a list of all user accounts, their balances, and whether they are locked.
 2. Exit Admin Interface: Log out from the admin interface.
    
-**Acknowledgments**
+# Acknowledgments
 
 This project is inspired by basic ATM systems and is designed for educational purposes to practice Python programming.
