@@ -29,9 +29,9 @@ This project is a simple ATM system implemented in Python, simulating basic ATM 
 
 **Security Features:**
 
-      1. Account Locking: Accounts are locked after three unsuccessful login attempts.
+1. Account Locking: Accounts are locked after three unsuccessful login attempts.
 
-      2. Admin Locking: The admin account is locked after three unsuccessful login attempts.
+2. Admin Locking: The admin account is locked after three unsuccessful login attempts.
 
 # Getting Started
 
@@ -60,22 +60,22 @@ python atm_system.py
 
 **Main Menu:**
 
-      1. User Login: Allows users to log in and perform transactions.
-      2. Admin Login: Allows admin to log in and manage user accounts.
-      3. Exit: Exits the program.
+1. User Login: Allows users to log in and perform transactions.
+2. Admin Login: Allows admin to log in and manage user accounts.
+3. Exit: Exits the program.
    
 **User Interface:**
 
-      1. Deposit: Enter the amount and the number of bills for each denomination to deposit money.
-      2. Withdraw: Enter the amount and the number of bills for each denomination to withdraw money.
-      3. Check Balance: View the current balance of your account.
-      4. Change Password: Change your account password by providing the current and new passwords.
-      5. Exit: Log out from the user interface.
+1. Deposit: Enter the amount and the number of bills for each denomination to deposit money.
+2. Withdraw: Enter the amount and the number of bills for each denomination to withdraw money.
+3. Check Balance: View the current balance of your account.
+4. Change Password: Change your account password by providing the current and new passwords.
+5. Exit: Log out from the user interface.
    
 **Admin Interface:**
 
-      1. View All User Accounts: Displays a list of all user accounts, their balances, and whether they are locked.
-      2. Exit Admin Interface: Log out from the admin interface.
+1. View All User Accounts: Displays a list of all user accounts, their balances, and whether they are locked.
+2. Exit Admin Interface: Log out from the admin interface.
    
 **Acknowledgments**
 
